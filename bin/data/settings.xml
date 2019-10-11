@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<group>
+	<LiDAR_Parameter>
+		<Serial_Port>/dev/tty.usbmodem14121</Serial_Port>
+		<Max_Range>30000</Max_Range>
+		<maxClusterCount>140</maxClusterCount>
+		<maxStddev>200</maxStddev>
+		<IP_Address>192.168.1.10</IP_Address>
+		<Port_Number>10940</Port_Number>
+	</LiDAR_Parameter>
+	<OSC_Paremeters>
+		<OSC_HOST>127.0.0.1</OSC_HOST>
+		<OSC_PORT>7777</OSC_PORT>
+	</OSC_Paremeters>
+	<group>
+		<Search_Region_Center>2234.74, 735.361</Search_Region_Center>
+		<Use_Auto_Region>0</Use_Auto_Region>
+		<Search_Region_Size>2448.98</Search_Region_Size>
+		<Zoom>0.0279883</Zoom>
+	</group>
+</group>
