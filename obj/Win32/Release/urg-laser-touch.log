@@ -1,0 +1,243 @@
+﻿  main.cpp
+  ofApp.cpp
+  ETF.cpp
+  fdog.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(156): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(174): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(218): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(242): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(262): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(156): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(174): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(218): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(242): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(262): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(409): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(406): note: while compiling class template member function 'const std::vector<GLuint,std::allocator<_Ty>> &ofxCv::TrackerFollower<cv::Point2f,F>::track(const std::vector<cv::Point2f,std::allocator<cv::Point_<float>>> &)'
+          with
+          [
+              _Ty=GLuint,
+              F=ofxUrgFollower
+          ] (compiling source file src\main.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(441): note: see reference to class template instantiation 'ofxCv::TrackerFollower<cv::Point2f,F>' being compiled
+          with
+          [
+              F=ofxUrgFollower
+          ] (compiling source file src\main.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(32): note: see reference to class template instantiation 'ofxCv::PointTrackerFollower<F>' being compiled
+          with
+          [
+              F=ofxUrgFollower
+          ] (compiling source file src\main.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\apps\myapps\urg-laser-touch\src\ofapp.h(38): note: see reference to class template instantiation 'ofxUrgTracker<ofxUrgFollower>' being compiled (compiling source file src\main.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(419): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\apps\myapps\urg-laser-touch\src\ofapp.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\apps\myapps\urg-laser-touch\src\ofapp.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(409): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(406): note: while compiling class template member function 'const std::vector<GLuint,std::allocator<_Ty>> &ofxCv::TrackerFollower<cv::Point2f,F>::track(const std::vector<cv::Point2f,std::allocator<cv::Point_<float>>> &)'
+          with
+          [
+              _Ty=GLuint,
+              F=ofxUrgFollower
+          ] (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(441): note: see reference to class template instantiation 'ofxCv::TrackerFollower<cv::Point2f,F>' being compiled
+          with
+          [
+              F=ofxUrgFollower
+          ] (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(32): note: see reference to class template instantiation 'ofxCv::PointTrackerFollower<F>' being compiled
+          with
+          [
+              F=ofxUrgFollower
+          ] (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\apps\myapps\urg-laser-touch\src\ofapp.h(38): note: see reference to class template instantiation 'ofxUrgTracker<ofxUrgFollower>' being compiled (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(419): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(64): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(60): note: while compiling class template member function 'void ofxUrgTracker<ofxUrgFollower>::draw(void)' (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\apps\myapps\urg-laser-touch\src\ofapp.cpp(121): note: see reference to function template instantiation 'void ofxUrgTracker<ofxUrgFollower>::draw(void)' being compiled
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(81): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(76): note: while compiling class template member function 'void ofxUrgTracker<ofxUrgFollower>::update(const std::vector<ofVec3f,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=ofVec3f
+          ] (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(130): note: see reference to function template instantiation 'void ofxUrgTracker<ofxUrgFollower>::update(const std::vector<ofVec3f,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=ofVec3f
+          ] (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(202): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(197): note: while compiling class template member function 'void ofxUrgTracker<ofxUrgFollower>::updateKmeans(const std::vector<ofVec3f,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=ofVec3f
+          ] (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(123): note: see reference to function template instantiation 'void ofxUrgTracker<ofxUrgFollower>::updateKmeans(const std::vector<ofVec3f,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=ofVec3f
+          ] (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(209): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(218): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(219): warning C4018: '>': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(226): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(161): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(158): note: while compiling class template member function 'void ofxUrgTracker<ofxUrgFollower>::updateNaive(const std::vector<ofVec3f,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=ofVec3f
+          ] (compiling source file src\ofApp.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(125): note: see reference to function template instantiation 'void ofxUrgTracker<ofxUrgFollower>::updateNaive(const std::vector<ofVec3f,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=ofVec3f
+          ] (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(177): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(178): warning C4018: '>=': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+  Calibration.cpp
+  ContourFinder.cpp
+  Distance.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\Calibration.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\ContourFinder.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\calibration.cpp(478): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\distance.cpp(30): warning C4700: uninitialized local variable 'bestScore' used
+  Flow.cpp
+  Helpers.cpp
+  Kalman.cpp
+  ObjectFinder.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\helpers.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\helpers.cpp(101): warning C4018: '>': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\helpers.cpp(107): warning C4018: '>': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\helpers.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\Flow.cpp)
+  RunningBackground.cpp
+  Tracker.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\Kalman.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\ObjectFinder.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\objectfinder.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\objectfinder.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\wrappers.h(260): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\ObjectFinder.cpp)
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\objectfinder.cpp(37): note: see reference to function template instantiation 'void ofxCv::equalizeHist<cv::Mat,cv::Mat>(const S &,D &)' being compiled
+          with
+          [
+              S=cv::Mat,
+              D=cv::Mat
+          ]
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxCv\libs\ofxCv\src\Tracker.cpp)
+  Utilities.cpp
+  Wrappers.cpp
+  ofxBaseGui.cpp
+  ofxButton.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\utilities.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\utilities.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\src\utilities.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(276): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(265): note: while compiling class template member function 'void ofxInputField<float>::moveCursor(int)'
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(368): note: see reference to function template instantiation 'void ofxInputField<float>::moveCursor(int)' being compiled
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(804): note: see reference to class template instantiation 'ofxInputField<float>' being compiled
+  ofxPanel.cpp
+  ofxSlider.cpp
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+  ofxCvColorImage.cpp
+  ofxCvContourFinder.cpp
+  ofxCvFloatImage.cpp
+  ofxCvGrayscaleImage.cpp
+  ofxCvHaarFinder.cpp
+  ofxCvImage.cpp
+  ofxCvShortImage.cpp
+  ofxOscBundle.cpp
+  ofxOscMessage.cpp
+  ofxOscParameterSync.cpp
+  ofxOscReceiver.cpp
+  ofxOscSender.cpp
+  IpEndpointName.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+  NetworkingUtils.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\win32\networkingutils.cpp(88): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2219): note: see declaration of 'gethostbyname'
+  UdpSocket.cpp
+  OscOutboundPacketStream.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscoutboundpacketstream.cpp(363): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscoutboundpacketstream.cpp(605): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscoutboundpacketstream.cpp(625): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  OscPrintReceivedElements.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscprintreceivedelements.cpp(129): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(476): note: see declaration of 'ctime'
+  OscReceivedElements.cpp
+  OscTypes.cpp
+  ofxUrgTracker.cpp
+  ticks.cpp
+  urg_connection.c
+  urg_debug.c
+  Urg_driver.cpp
+  urg_ring_buffer.c
+  urg_sensor.c
+  urg_serial.c
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\libs\urg_library\src\urg_sensor.c(204): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1961): note: see declaration of '_snprintf'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\libs\urg_library\src\urg_sensor.c(869): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1961): note: see declaration of '_snprintf'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\libs\urg_library\src\urg_sensor.c(875): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1961): note: see declaration of '_snprintf'
+  urg_serial_utils.c
+  urg_tcpclient.c
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\libs\urg_library\src\urg_serial_windows.c(48): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial.c)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1961): note: see declaration of '_snprintf' (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial.c)
+  urg_utils.c
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\libs\urg_library\src\urg_serial_utils_windows.c(50): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial_utils.c)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy' (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial_utils.c)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\libs\urg_library\src\urg_serial_utils_windows.c(51): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial_utils.c)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy' (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial_utils.c)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\libs\urg_library\src\urg_serial_utils_windows.c(52): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial_utils.c)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy' (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial_utils.c)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\libs\urg_library\src\urg_serial_utils_windows.c(133): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial_utils.c)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1961): note: see declaration of '_snprintf' (compiling source file ..\..\..\addons\ofxUrg\libs\urg_library\src\urg_serial_utils.c)
+  ofxXmlSettings.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(156): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxUrg\src\ofxUrgTracker.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(174): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxUrg\src\ofxUrgTracker.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(218): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxUrg\src\ofxUrgTracker.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(242): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxUrg\src\ofxUrgTracker.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(262): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxUrg\src\ofxUrgTracker.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxUrg\src\ofxUrgTracker.cpp)
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxxmlsettings\src\ofxxmlsettings.cpp(575): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxxmlsettings\src\ofxxmlsettings.cpp(583): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+urg.lib(urg_serial_utils.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+     Creating library bin\urg-laser-touch.lib and object bin\urg-laser-touch.exp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 630 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  urg-laser-touch.vcxproj -> C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\apps\myApps\urg-laser-touch\bin\urg-laser-touch.exe
+  
+  	                   2	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\apps\myApps\urg-laser-touch\bin\FreeImage.dll
+  
+  	                   1	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\apps\myApps\urg-laser-touch\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\apps\myApps\urg-laser-touch\bin\fmodexL.dll

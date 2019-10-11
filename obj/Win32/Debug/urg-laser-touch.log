@@ -1,0 +1,78 @@
+﻿  ofApp.cpp
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurg.h(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\apps\myapps\urg-laser-touch\src\ofapp.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\apps\myapps\urg-laser-touch\src\ofapp.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(409): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(406): note: while compiling class template member function 'const std::vector<GLuint,std::allocator<_Ty>> &ofxCv::TrackerFollower<cv::Point2f,F>::track(const std::vector<cv::Point2f,std::allocator<cv::Point_<float>>> &)'
+          with
+          [
+              _Ty=GLuint,
+              F=ofxUrgFollower
+          ]
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(441): note: see reference to class template instantiation 'ofxCv::TrackerFollower<cv::Point2f,F>' being compiled
+          with
+          [
+              F=ofxUrgFollower
+          ]
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(32): note: see reference to class template instantiation 'ofxCv::PointTrackerFollower<F>' being compiled
+          with
+          [
+              F=ofxUrgFollower
+          ]
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\apps\myapps\urg-laser-touch\src\ofapp.h(38): note: see reference to class template instantiation 'ofxUrgTracker<ofxUrgFollower>' being compiled
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(419): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(64): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(60): note: while compiling class template member function 'void ofxUrgTracker<ofxUrgFollower>::draw(void)'
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\apps\myapps\urg-laser-touch\src\ofapp.cpp(121): note: see reference to function template instantiation 'void ofxUrgTracker<ofxUrgFollower>::draw(void)' being compiled
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(81): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(76): note: while compiling class template member function 'void ofxUrgTracker<ofxUrgFollower>::update(const std::vector<ofVec3f,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=ofVec3f
+          ]
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(130): note: see reference to function template instantiation 'void ofxUrgTracker<ofxUrgFollower>::update(const std::vector<ofVec3f,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=ofVec3f
+          ]
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(202): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(197): note: while compiling class template member function 'void ofxUrgTracker<ofxUrgFollower>::updateKmeans(const std::vector<ofVec3f,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=ofVec3f
+          ]
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(123): note: see reference to function template instantiation 'void ofxUrgTracker<ofxUrgFollower>::updateKmeans(const std::vector<ofVec3f,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=ofVec3f
+          ]
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(219): warning C4018: '>': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(226): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(161): warning C4018: '<': signed/unsigned mismatch
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(158): note: while compiling class template member function 'void ofxUrgTracker<ofxUrgFollower>::updateNaive(const std::vector<ofVec3f,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=ofVec3f
+          ]
+  c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(125): note: see reference to function template instantiation 'void ofxUrgTracker<ofxUrgFollower>::updateNaive(const std::vector<ofVec3f,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=ofVec3f
+          ]
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\ddd\documents\of_v0.10.1_vs2017_release\addons\ofxurg\src\ofxurgtracker.h(178): warning C4018: '>=': signed/unsigned mismatch
+  urg-laser-touch.vcxproj -> C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\apps\myApps\urg-laser-touch\bin\urg-laser-touch_debug.exe
+  
+  	                   2	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\apps\myApps\urg-laser-touch\bin\FreeImage.dll
+  
+  	                   1	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\apps\myApps\urg-laser-touch\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\DDD\Documents\of_v0.10.1_vs2017_release\apps\myApps\urg-laser-touch\bin\fmodexL.dll
