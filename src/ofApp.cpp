@@ -114,7 +114,7 @@ void ofApp::update(){
 void ofApp::draw(){
     cam.begin();
     ofPushMatrix();
-    ofTranslate(ofGetWidth()/2, ofGetHeight()/2);
+    //ofTranslate(ofGetWidth()/2, ofGetHeight()/2);
     ofPushMatrix();
     ofScale(zoom, zoom);
     urg.draw(20, ofToInt(maxRange));
